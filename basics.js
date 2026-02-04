@@ -23,3 +23,24 @@ function countToFive() {
         console.log(i);
     }
 }
+
+// isEven
+function isEven(a) {
+    return a % 2 === 0;
+}
+
+// add
+function add(a,b) {
+    sum = a + b
+    return sum
+}
+
+//Max number
+function largest(a,b) {
+    if(a > b) {
+        return a
+    }
+    else {
+        return b
+    }
+}
