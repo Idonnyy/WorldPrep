@@ -6,4 +6,3 @@ const greetBtnWidget = document.getElementById("changeBtn");
 greetBtnWidget.addEventListener("click",function() {
     greetingText.text = "You clicked the button!!!"
 });
-
