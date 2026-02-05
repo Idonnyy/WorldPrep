@@ -1,9 +1,9 @@
 # WorldPrep
 
-basic variables, functions, conditionals
-Knowlegde Checks
--Knowlegde of let vs const does
+Practice exercises to demonstrate basic knowlegde of JS.
 
-Ability to install and run  JS using Node
-
-Ability to us Git Repo
+1: Varibles, loops, conditions, Git, functions
+2: Element ID's, text method, event listener, js element altering.
+3: Page alteration using styles and inputs. 
+4: Page interactions using Inputs and Conditions
+5: Page interactions using comparison statements and inputs. 
