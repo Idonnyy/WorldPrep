@@ -30,17 +30,11 @@ function isEven(a) {
 }
 
 // add
-function add(a,b) {
-    sum = a + b
-    return sum
+function add(a, b) {
+    return a + b;
 }
 
-//Max number
-function largest(a,b) {
-    if(a > b) {
-        return a
-    }
-    else {
-        return b
-    }
-}
+//Largest number
+function largest(a, b) {
+return a > b ? a : b;
+ }
