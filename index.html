@@ -1,13 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
-    <head>
+<html lang="en"> 
+<head>
+    <title>Practical Basics</title>
     <meta charset="UTF-8">
-<title>Day 2 World Prep DOM and Events</title>
+    <script src="script.js" defer></script>
 </head>
-    <body>
-        <h1 id="greeting">Hello!</h1>
-        <button id="changeBtn">Click Me!</button>
-        <scipt src="script.js"></scipt>
-    </body>
+<body>
 
+    <div id="greetingBox">
+        <header>
+            <p id="greetingLabel">Hi, what’s your name?</p><br><br>
+            <input type="text" id="greetingName" name="greeting">
+            <button id="greetingBtn">Click Me</button><br><br>
+        </header>
+    </div>
+
+    <div id="calculationBox">
+        <label for="num1"></label>
+        <input type="number" name="num1" id="num1" placeholder="Even/Odd Box">
+        <label for="num2"></label>
+        <input type="number" name="num2" id="num2"><br><br>
+
+        <button id="addBtn">+</button>
+        <button id="multiplyBtn">X</button>
+        <button id="largestBtn">Largest</button>
+        <button id="isEvenBtn">Even/Odd</button>
+
+        <p id="results">...</p>
+    </div>
+
+</body>
 </html>

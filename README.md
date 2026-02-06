@@ -7,3 +7,4 @@ Practice exercises to demonstrate basic knowlegde of JS.
 3: Page alteration using styles and inputs. 
 4: Page interactions using Inputs and Conditions
 5: Page interactions using comparison statements and inputs. 
+6: *Ensure you commit everything to get before pulling*
