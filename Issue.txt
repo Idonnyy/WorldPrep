@@ -1,0 +1,2 @@
+Greeting needs to be replaced to show the input name and a greeting.
+A reset button needs to greeted to clear number values, or calculator box needs to a calculator. 

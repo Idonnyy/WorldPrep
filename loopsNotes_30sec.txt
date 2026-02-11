@@ -1,0 +1,19 @@
+Step 1: Identify what the problem asks
+
+Ask yourself one simple question:
+
+Are you visiting items just to do something with them? → Traversal
+
+Are you combining values into one number/result? → Accumulation
+
+Are you looking for something (existence, first match)? → Search
+
+Are you creating a new array/object based on old data? → Transformation
+
+Step 2: Pick your loop blueprint
+Traversal: just loop + action (like console.log)
+Accumulation: initialize accumulator + loop + add to it accumulator
+Search: loop + condition + break if found
+Transformation: create new array + loop + push modified value
+
+“Do I need to combine, transform, search, or traverse?”

@@ -1,0 +1,15 @@
+This is where I solved problems. 
+
+1. Click Me! button for H1 did not work. It did not work because script in the
+    HTML files was mispelled has scrip instead of script. 
+
+2. Metoo text was orginal did not work becuase it was place benith the script element.
+    It needed to be placed above the script element because js was running before the element was read. 
+
+3. userName input did not properly work because .value was missing which gets the value stored. 
+
+4. After clicking add number did not display since there was mismatch between id tags for results. Corrected name mismatch fix the issue. 
+
+5. Multiply equation only returned 0 since the global value was read when the page loaded. 
+    Either read the varible in the listener or Numbers(.value) inside the function, additionall 
+    without Number() and only .value the number will combined as strings values.
