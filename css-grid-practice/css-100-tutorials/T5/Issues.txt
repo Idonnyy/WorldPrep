@@ -1,0 +1,3 @@
+Solved issues:
+    1. Grid column did not properly align beacuse grid item has ft instead of fr.
+

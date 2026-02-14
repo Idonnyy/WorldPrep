@@ -1,0 +1,7 @@
+Features added:
+    1. add event listener to change the image url/content to another image.
+    2. Remove repetative code in JS. 
+        - Make all img as single class
+        - Query Select the class of the images
+        - Run a forEachloop with the query selected class
+        
